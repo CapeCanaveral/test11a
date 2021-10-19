@@ -1,0 +1,30 @@
+
+.slider {
+        width: 70%;
+        margin: 100px auto;
+        color: black;
+    }
+
+.slick-prev:before,
+.slick-next:before {
+      color: black;
+    }
+
+
+
+h1,h2{
+	text-align: center;
+	margin: 0px;
+}
+.header{
+
+	width: auto;
+	height: 100px;
+	background: #FF5733;
+}
+
+h3{
+	margin-top:50px; 
+	text-align: center;
+	margin: 0px;
+}
